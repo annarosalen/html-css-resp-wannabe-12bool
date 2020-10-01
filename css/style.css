@@ -60,6 +60,8 @@ img {
 
 /* screen xs */
 @media screen and (max-width: 768px){
+
+  /* BLOCCO LEZIONI */
   #lezioni .row {
     margin-top: 50px;
   }
@@ -67,6 +69,8 @@ img {
   #lezioni .row .right {
     margin-top: 50px;
   }
+
+  /* BLOCCO STEPS */
 
   #steps .row .central{
     margin-top: 50px;
